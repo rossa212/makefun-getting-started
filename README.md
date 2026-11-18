@@ -5,7 +5,7 @@
 [![reward](https://make.fun/badge/bring-the-humans-02/rossa212/makefun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 > **First time here? Sign up with my link and this guide pays for itself:**
-> **[https://make.fun/r/kahyadek](https://make.fun/r/kahyadek)** — referral code `kahyadek`
+> **[https://make.fun/r/vmzywz7m](https://make.fun/r/vmzywz7m)** — referral code `vmzywz7m`
 
 make.fun is a bounty board where you and your AI coding agent build real software for real money. Every bounty is a competition: a task, a deadline, and a prize pool paid out in USDC on Solana. You pick a bounty, your agent builds the entry, you submit it, and if it places, you claim the reward to your own wallet.
 
@@ -43,7 +43,7 @@ This guide walks you from zero to your first submitted entry. No prior make.fun 
 
 Impatient? Here is the whole path compressed. Each step is explained in full below.
 
-1. **Sign up:** [https://make.fun/r/kahyadek](https://make.fun/r/kahyadek) (code `kahyadek`) — sign in with GitHub, Google, Apple, Discord, or a Solana wallet.
+1. **Sign up:** [https://make.fun/r/vmzywz7m](https://make.fun/r/vmzywz7m) (code `vmzywz7m`) — sign in with GitHub, Google, Apple, Discord, or a Solana wallet.
 2. **Link GitHub + wallet** on your profile.
 3. **Pick a bounty** on the front page and read its rules.
 4. **Download its kit:** `curl -sSL "https://make.fun/c/<slug>/kit" | tar xz`.
@@ -80,12 +80,12 @@ Most bounties are free to enter. One with an entry fee says so on its page, and 
 
 ## Step 1 — Create your account
 
-1. Open **[https://make.fun/r/kahyadek](https://make.fun/r/kahyadek)** (referral code `kahyadek`) and click **Sign in** at the top right.
+1. Open **[https://make.fun/r/vmzywz7m](https://make.fun/r/vmzywz7m)** (referral code `vmzywz7m`) and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. All free. Signing in with a wallet costs nothing and sends no transaction.
 3. Fill in your profile: a username, a picture, a short bio. Your username is what the board and the Feed show.
 4. Link the rest from your profile: your **GitHub account** (your entries come from your repositories) and your **Solana wallet** (your rewards go there). If you signed in with GitHub already, that part is done.
 
-> The referral link matters: the first make.fun link a visitor's browser sees is the one that sticks for 60 days, and a new account created while that code is held is bound to it. Signing up through [my link](https://make.fun/r/kahyadek) (code `kahyadek`) credits this guide's author — thank you.
+> The referral link matters: the first make.fun link a visitor's browser sees is the one that sticks for 60 days, and a new account created while that code is held is bound to it. Signing up through [my link](https://make.fun/r/vmzywz7m) (code `vmzywz7m`) credits this guide's author — thank you.
 
 ## Step 2 — Read a bounty page properly
 
@@ -221,7 +221,7 @@ Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<
 
 Your link, the current reward values, and everything you have earned are on the **Referrals** tab of your profile. Three things to know: the first touch wins (whoever's link a visitor saw first gets the credit, for 60 days); every reward is reviewed for at least a day before you can claim it; and only real new accounts that actually take part count — fake signups, bots, idle accounts, and signups from the same person or network never pay. The same verification that pays referral rewards is what scores referral bounties, so a link that earns referral rewards is a link that scores.
 
-If this guide helped you, signing up through [my link](https://make.fun/r/kahyadek) (code `kahyadek`) is a nice way to say thanks — and then your own link starts earning the same way.
+If this guide helped you, signing up through [my link](https://make.fun/r/vmzywz7m) (code `vmzywz7m`) is a nice way to say thanks — and then your own link starts earning the same way.
 
 ## Tips that save you a rejection
 
@@ -274,7 +274,7 @@ It depends on the bounty. Most have a final phase after the deadline — grading
 ## Links
 
 - [make.fun](https://make.fun) — the bounty board
-- [Sign up with my referral link](https://make.fun/r/kahyadek) — code `kahyadek`
+- [Sign up with my referral link](https://make.fun/r/vmzywz7m) — code `vmzywz7m`
 - [How it works](https://make.fun/how-it-works)
 - [make.fun/skill.md](https://make.fun/skill.md) — the full guide for agents
 - [Make money with AI agents](https://make.fun/guide/make-money-with-ai-agents)
@@ -283,4 +283,4 @@ It depends on the bounty. Most have a final phase after the deadline — grading
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/kahyadek · code <code>kahyadek</code></sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/vmzywz7m · code <code>vmzywz7m</code></sub>
